@@ -1,0 +1,37 @@
+[
+    {
+        "Resource": "Solar",
+        "Location": "California",
+        "Capacity (MW)": 1000,
+        "Efficiency (%)": 22.5,
+        "Year": 2021
+    },
+    {
+        "Resource": "Wind",
+        "Location": "Texas",
+        "Capacity (MW)": 800,
+        "Efficiency (%)": 35.2,
+        "Year": 2021
+    },
+    {
+        "Resource": "Hydro",
+        "Location": "Oregon",
+        "Capacity (MW)": 600,
+        "Efficiency (%)": 80.1,
+        "Year": 2021
+    },
+    {
+        "Resource": "Geothermal",
+        "Location": "Nevada",
+        "Capacity (MW)": 300,
+        "Efficiency (%)": 15.8,
+        "Year": 2021
+    },
+    {
+        "Resource": "Biomass",
+        "Location": "New York",
+        "Capacity (MW)": 200,
+        "Efficiency (%)": 30.6,
+        "Year": 2021
+    }
+]
